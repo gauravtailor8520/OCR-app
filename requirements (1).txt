@@ -1,12 +1,7 @@
-opencv-python
-streamlit
-pyngrok
+streamlit==1.38.0
+numpy==2.1.1
+pillow==10.4.0
 pytesseract
-opencv-python-headless
-Pillow
-numpy
-torch
-transformers
-huggingface-hub
-matplotlib
+opencv-python
+# Add other dependencies as needed
 
